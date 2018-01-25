@@ -13,4 +13,6 @@ This project has the following goals:
 - Retrieve data from stock repository
 
 ## Phase 3: Run
-- TBD
+- Track purchase price
+- Calculate for gain/loss by day
+- Calculate for gain/loss overall
